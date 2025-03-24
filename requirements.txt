@@ -1,0 +1,9 @@
+torch>=1.10
+torchvision
+pyyaml
+tensorboard
+opencv-python
+tqdm
+py7zr
+kornia
+einops
