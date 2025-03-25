@@ -1,14 +1,16 @@
 <div align="center">
-___<font size="6">***DAGait: Generalized Skeleton-Guided Data Alignment for Gait Recognition***</font>___
-<br>
-<br>
+<hr>
+<font size="6"><i><b>DAGait: Generalized Skeleton-Guided Data Alignment for Gait Recognition</b></i></font>
+<br><br>
 <a href='https://arxiv.org/pdf/2503.18830'><img src='https://img.shields.io/badge/arXiv-2503.18830-b31b1b.svg'></a>
 &nbsp;
 <a href='https://dingwu1021.github.io/DAGait/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-&nbsp;
-_**Zhengxian Wu* , Chuanrui Zhang* , Hangrui Xu, Peng Jiao, Haoqian Wang†**_
 <br><br>
+<i>Zhengxian Wu*, Chuanrui Zhang*, Hangrui Xu, Peng Jiao, Haoqian Wang†</i>
 </div>
+
+
+
 
 <img src='assets/baseline.png' style="width: 100%; height: 100%">
 
